@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Chat App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="chat"></div>
+
+  <div class="bar">
+    <input id="input" placeholder="Type a message..." />
+    <button onclick="send()">Send</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
